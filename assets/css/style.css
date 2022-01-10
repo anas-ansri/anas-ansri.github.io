@@ -1190,6 +1190,11 @@ section {
     font-weight: 300;
 }
 
+.footer p#title {
+    padding-left: 30px;
+    font-size: 1.5rem;
+}
+
 .wave {
     position: absolute;
     top: -100px;
